@@ -1,0 +1,17 @@
+.cabecalho-rodape {
+    background-color: aqua;
+    border-radius: 10%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+ul {
+    display: flex;
+    list-style: none;
+    gap: 3rem;
+}
+
+a {
+    text-decoration: none;
+}
